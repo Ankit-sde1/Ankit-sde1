@@ -15,32 +15,17 @@
 
 ---
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- Apex
-- HTML/CSS
+**Languages:** Java • JavaScript • Apex • HTML • CSS  
 
-### Frameworks & Tools
-- Spring Boot
-- Spring Security
-- React.js
-- REST APIs
-- MySQL
-- Spring Data JPA
-- Git & GitHub
+**Frameworks & Libraries:** Spring Boot • Spring Security • React.js • REST APIs  
 
-### AI/ML
-- Python
-- Scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
-- Streamlit
+**Databases:** MySQL • Spring Data JPA • Spring JDBC  
 
----
+**AI/ML:** Python • TensorFlow & Scikit-learn  • Pandas • NumPy • Streamlit 
+
+**Tools:** Git • GitHub • IntelliJ IDEA • VS Code • Postman ---
 
 ## 📌 Featured Projects
 
